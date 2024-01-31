@@ -18,7 +18,6 @@
     <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
     <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Українська</a></td>
     <td valign="center"><a href="README_es-cl.md"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e6-1f1f7.svg" width="16"/> Español</td>
-    <td valign="center"><a href="README_jp-ja.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ef-1f1f5.svg" width="16"/> 日本語</td>
       
   </tr>
 </table>
@@ -40,13 +39,13 @@
 ---
 <div align="center">
   
-# 🔥 KOREPI FAQ 🔥
+# 🔥 မေးလေ့မေးထရှိသော မေးခွန်းများ 🔥
 
 </div>
 
 ## 1 - WHAT IS [KOREPI](https://github.com/Korepi/Korepi)?
 
-- [KOREPI](https://github.com/Korepi/Korepi) is a certain anime game free cheat that includes various memory modification features to enhance your gameplay experience.
+- [KOREPI](https://github.com/Korepi/Korepi) KOREPI သည် သင့်ဂိမ်းကစားခြင်းကို ပိုမိုကောင်းမွန်စေရန်အတွက် အမျိုးမျိုးသော memoryများကို ပြုပြင်မွမ်းမံထားသည့် anime game အတွက် ဟက်ခ်တစ်ခုဖြစ်သည်။
 
 ## 2 - What is the difference between fans and sponsors?
 
@@ -105,12 +104,6 @@ Please choose according to your needs.
 - Enter to this [website](https://keyauth.cc/panel/Strigger/Korepi). But you only have one chance! **(Sponsor can reset it three times a week!)**
 
 <a href="#"><img width="913" height="673" src="https://media.discordapp.net/attachments/1105689707058307142/1147112629798703165/image.png"></a>
-
-## 14 - I can't join discord, why?
-
-- Due to many bad people try to join with a bunch of alts then get Fans role and sell it. We have to close it for that reason.
-- When? Probably randomly time in future, so don't expect that we open earlier.
-
 ---
 
 ## ⚠ Disclaimer
